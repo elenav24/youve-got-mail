@@ -78,10 +78,16 @@
     }
 
     .envelope-bottom {
-      border-bottom: 125px solid #FFD8E2;
+      border-bottom: 135px solid #FFD8E2;
     }
 
     .flap {
-      border-top: 125px solid #FFD8E2;
+      border-top: 135px solid #FFE4EB;
+    }
+
+    .heart {
+      top: 80px;
+      width: 70px;
+      height: 70px;
     }
   }
