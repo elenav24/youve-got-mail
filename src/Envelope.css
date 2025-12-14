@@ -132,7 +132,7 @@
 
 @keyframes heart-move {
   0% {
-    transform: translateY(140px);
+    transform: translateY(150px);
   }
   75% {
     z-index: 3;
