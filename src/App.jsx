@@ -27,7 +27,7 @@ function App() {
           gravity={0.3}
         />
       )}
-      {!isOpen && <Envelope onClick={handleEnvelopeClick} />}
+      {<Envelope/>}
       {/* {!isOpen ? (
         <Envelope onClick={handleEnvelopeClick} />
       ) : (
